@@ -1,6 +1,6 @@
 Name:		texlive-phfsvnwatermark
 Version:	41870
-Release:	1
+Release:	2
 Summary:	Watermarks with version control information from SVN
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfsvnwatermark
