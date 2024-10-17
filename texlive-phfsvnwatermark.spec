@@ -3,7 +3,7 @@ Version:	41870
 Release:	2
 Summary:	Watermarks with version control information from SVN
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfsvnwatermark
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phfsvnwatermark
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfsvnwatermark.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfsvnwatermark.doc.r%{version}.tar.xz
